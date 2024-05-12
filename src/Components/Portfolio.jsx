@@ -31,7 +31,7 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "Evento Microsoft",
+    title: "Evento Microsoft 2",
     description:
       "resumen del evento",
     url: "https://mvp.microsoft.com/es-ES/account/",
